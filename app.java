@@ -5,3 +5,5 @@ facebook
 twitter
 tiktok
 noobroom
+linkedin
+amazon
