@@ -2,5 +2,5 @@
 I am loved by God
 I love you
 =======
-I am blessed
+For the lord is good
 >>>>>>> stage
